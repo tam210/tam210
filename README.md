@@ -29,7 +29,7 @@ Me dedico a crear sistemas que hacen la vida más fácil: aplicaciones web compl
 
 📬 ¡Hablemos!
 
-- [LinkedIn](https://linkedin.com/in/tuusuario)  
-- [Email](mailto:tuemail@example.com)
+- [LinkedIn](https://linkedin.com/in/tamara-ossandon-vergara)  
+- [Email](mailto:ossandon.t20@gmail.com)
 
 ---
