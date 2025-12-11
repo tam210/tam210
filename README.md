@@ -2,12 +2,6 @@
 
 ---
 
-### ¡Hola, soy Tamara! 👋
-
-Me dedico a crear sistemas que hacen la vida más fácil: aplicaciones web completas, automatizaciones, integraciones de datos, y cada vez más, soluciones donde la inteligencia artificial aporta ese toque extra de eficiencia.
-
----
-
 ### Tecnologías que más uso
 
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -24,10 +18,6 @@ Me dedico a crear sistemas que hacen la vida más fácil: aplicaciones web compl
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
-
-### Nada como sumar fuerzas y aprender en equipo
-
-📬 ¡Hablemos!
 
 - [LinkedIn](https://linkedin.com/in/tamara-ossandon-vergara)  
 - [Email](mailto:ossandon.t20@gmail.com)
