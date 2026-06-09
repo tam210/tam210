@@ -1,5 +1,19 @@
 **Full Stack Developer · Backend · Ingeniería de Datos · Integración de APIs · ETL y Visualización de Datos**
+# Tamara Ossandón
 
+Full Stack Developer enfocada en backend, datos e integración de sistemas.
+
+Me gusta construir herramientas simples para problemas reales: APIs, dashboards, procesos automatizados, reportes y sistemas que conectan operación con datos.
+
+
+const focus = [
+  "Backend",
+  "APIs",
+  "ETL",
+  "Data Visualization",
+  "SaaS",
+  "Cloud"
+]
 ---
 
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
